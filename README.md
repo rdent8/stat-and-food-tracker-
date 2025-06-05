@@ -43,3 +43,33 @@ This project helps you track your weight, BMI, body-fat, body-water, muscle mass
    ```bash
    git clone git@github.com:rdent8/stat-and-food-tracker-.git
    cd stat-and-food-tracker-
+---
+## Usage
+*(Your existing Usage section goes here, if not already above)*
+
+## Data Schema (Sample JSON)
+Below is a sample of what your JSON files look like:
+
+```json
+[
+    {
+        "timestamp": "2025-06-03T14:22:00",
+        "date": "2025-06-03",
+        "weight": 180.5,
+        "bmi": 24.8,
+        "body_fat": 18.2,
+        "body_water": 55.1,
+        "muscle_mass": 40.3,
+        "kcal": 2200
+    },
+    {
+        "timestamp": "2025-06-04T07:15:30",
+        "date": "2025-06-04",
+        "weight": 180.0,
+        "bmi": 24.7,
+        "body_fat": 18.0,
+        "body_water": 55.3,
+        "muscle_mass": 40.5,
+        "kcal": 2100
+    }
+]
