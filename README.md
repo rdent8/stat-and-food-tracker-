@@ -1,6 +1,6 @@
 # Stat & Food Tracker
 
-**A simple terminal‐based stat tracker and food inventory logger built in Python.**
+**A simple terminal-based stat tracker and food inventory logger built in Python.**
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## Description
-This project helps you track your weight, BMI, body‐fat, body‐water, muscle mass, and daily calorie intake over time. It also lets you store and manage your food inventory, making it easier to log meals and macros. Ideal for anyone building healthy habits—whether you’re bulking, cutting, or maintaining.
+This project helps you track your weight, BMI, body-fat, body-water, muscle mass, and daily calorie intake over time. It also lets you store and manage your food inventory, making it easier to log meals and macros. Ideal for anyone building healthy habits—whether you’re bulking, cutting, or maintaining.
 
 ---
 
