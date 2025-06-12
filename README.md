@@ -43,9 +43,14 @@ This project helps you track your weight, BMI, body-fat, body-water, muscle mass
    ```bash
    git clone git@github.com:rdent8/stat-and-food-tracker-.git
    cd stat-and-food-tracker-
+   ```
+
 ---
+
 ## Usage
 *(Your existing Usage section goes here, if not already above)*
+
+---
 
 ## Data Schema (Sample JSON)
 Below is a sample of what your JSON files look like:
@@ -73,3 +78,25 @@ Below is a sample of what your JSON files look like:
         "kcal": 2100
     }
 ]
+```
+
+---
+
+## Future Features
+See [FUTURE_FEATURES.md](FUTURE_FEATURES.md) for the full roadmap of planned enhancements, including:
+1. Export/Import to CSV  
+2. Interactive Charts & Visualizations  
+3. User Profiles & Authentication  
+4. TDEE Estimation & Macro Recommendations  
+5. Nutrition API Integration  
+6. Responsive Web GUI  
+7. Unit Tests & CI/CD  
+8. …and more
+
+---
+
+## Contributing
+*(Guidelines for contributing to this project)*
+
+## License
+*(Your license information here)*
