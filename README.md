@@ -11,7 +11,8 @@
 4. [Installation](#installation)  
 5. [Usage](#usage)  
    - [Stat Tracker](#stat-tracker)  
-   - [Food Inventory](#food-inventory)  
+   - 7. [Future Features](FUTURE_FEATURES.md)
+  
 6. [Data Schema (Sample JSON)](#data-schema-sample-json)  
 7. [Future Features](#future-features)  
 8. [Contributing](#contributing)  
